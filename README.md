@@ -6,12 +6,6 @@ This is a Data Science project that focuses on **multilabel classification of Sa
 The goal is to build a machine learning model capable of detecting and labeling **multiple food components within a single dish** (e.g., rice, meat, vegetables, bread).  
 Unlike traditional single-label classification, each dish may contain **several items at the same time**, and the model should recognize all of them.  
 
-This project supports:
-- **Ingredient-level recognition** for dietary analysis.  
-- **Cultural food studies** by analyzing how Saudi dishes are composed.  
-- Potential future applications in **nutrition tracking**, **restaurant automation**, and **food recommendation systems**.
-
-
 
 ##  Project Description
 - **Main Objective**:  
