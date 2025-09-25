@@ -21,15 +21,13 @@ This project supports:
   The model should predict categories such as **Rice, Meat, Chicken, Bread, Salad, Drinks, Desserts, Sides**, etc. For example, if the dish contains *rice + salad + chicken*, all three labels should be assigned.  
 
 
-##  Team Members
-| Student ID | Name                 |
-|------------|----------------------|
-| 56594      | **Walah Alsaeed**    |
-| 444201689  | **Norah Alshamsan**  |
-| 444200817  | **Joud Alzahrani**   |
-| 444200862  | **Norah Alkathiri**  |
-| 444200439  | **Aljudi Altorkistani** |
-| 444203157  |                      |
-
+## Team Members
+| Student ID | Name                |
+|------------|---------------------|
+| 444201689  | **Walah Alsaeed**   |
+| 444200817  | **Norah Alshamsan** |
+| 444200862  | **Joud Alzahrani**  |
+| 444200439  | **Norah Alkathiri** |
+| 444203157  | **Aljudi Altorkistani** |
 
 
