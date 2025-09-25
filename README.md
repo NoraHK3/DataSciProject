@@ -33,5 +33,3 @@ This project supports:
 
 
 
-## 📄 License
-This project is developed for educational purposes as part of a Data Science course.  
